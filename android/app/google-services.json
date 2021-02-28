@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578938814998",
+    "project_id": "wordwallpaperplacer",
+    "storage_bucket": "wordwallpaperplacer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578938814998:android:da3119d651f2155999ab37",
+        "android_client_info": {
+          "package_name": "lessismore.wordwallpaperplacer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578938814998-uc1plltak67isur52vtbfl2qtklb8jm6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzuMePa-FPooszHvvtviGiJJhgPsNEGCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578938814998-uc1plltak67isur52vtbfl2qtklb8jm6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
